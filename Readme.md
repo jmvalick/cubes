@@ -1,3 +1,5 @@
+# Cubes Demo
+
 ## Summary
 This is a computer graphics project for learning transformations, skyboxes, heightmaps, texture mapping, and general OpenGL programming. 
 
