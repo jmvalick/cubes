@@ -3,6 +3,8 @@
 ## Summary
 This is a computer graphics project for learning transformations, skyboxes, heightmaps, texture mapping, and general OpenGL programming. 
 
+<img src="./Results/Screenshot 2025-03-02 215621.png" width="600">
+
 ### Instructions to run:
 - Run this [Executable](./Project_1/Project_1.exe) <br>
 or
