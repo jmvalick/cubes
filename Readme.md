@@ -10,7 +10,7 @@ or
 
 	W, A, S, D to move camera
 
-			    No Modifier							Shift								Ctrl
+				 No Modifier			Shift				Ctrl
 	U 	Increase rotation rate in x-axis | Increase the scale in x-axis | Positive translation in the x-Axis
 	J 	Decrease rotation rate in x-axis | Decrease the scale in x-axis | Negative translation in the x-Axis
 	I 	Increase rotation rate in y-axis | Increase the scale in y-axis | Positive translation in the y-Axis
